@@ -12,4 +12,4 @@ Se han configurado las reglas en el cortafuegos UFW para permitir el acceso TCP 
 * **PostgreSQL 16**: Permite conexiones en el puerto 5432 para el usuario `pguser` sobre la base `dbpg`
 * **MariaDB 11**; Se autorizó la cuenta `'muser'@`%'` con clave 8888 sobre la base `dbm` en el puerto 3306.
 
- 
+![Conexión remota y UFW](./evidencias/08-conexion-remota-ufw.png) 
