@@ -5,9 +5,9 @@
 | **PostgreSQL 16** | localhost / dbpg | 5432 | pguser | 8888 |
 | **MariaDB 11** | localhost / dbm | 3306 | muser | 8888 |
 
-![Conexión con MariaDB](./Conectividad_con_MariaDB.png)
-![Conexión con PostgreSQL](./Conectividad_con_PostgreSQL.png)
-![Conexión con SQL](./Conectividad_con_SQL.png)
+![Conexión con MariaDB](./evidencias/Conectividad_con_MariaDB.png)
+![Conexión con PostgreSQL](.//evidencias/Conectividad_con_PostgreSQL.png)
+![Conexión con SQL](./evidencias/Conectividad_con_SQL.png)
 
 ## Ejercicio 5: Conexiones desde otra máquina
 
