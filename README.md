@@ -5,6 +5,10 @@
 | **PostgreSQL 16** | localhost / dbpg | 5432 | pguser | 8888 |
 | **MariaDB 11** | localhost / dbm | 3306 | muser | 8888 |
 
+![Conexión con MariaDB](./Conectividad_con_MariaDB.png)
+![Conexión con PostgreSQL](./Conectividad_con_PostgreSQL.png)
+![Conexión con SQL](./Conectividad_con_SQL.png)
+
 ## Ejercicio 5: Conexiones desde otra máquina
 
 Se han configurado las reglas en el cortafuegos UFW para permitir el acceso TCP a los puertos de PostgreSQL (5432) y MariaDB (3306) utilizando la IP de la Máquina Virtual (10.0.2.15).
